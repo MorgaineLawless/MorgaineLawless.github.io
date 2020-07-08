@@ -1,11 +1,11 @@
 # Site settings
 author: Morgaine Lawless
-title: 
+title: KawaiiKoding
 header-img: img/home-bg.png
 email: morgainelawless@gmail.com
 copyright_name: Morgaine Lawless
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MorgaineLawless
